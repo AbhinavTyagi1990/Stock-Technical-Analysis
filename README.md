@@ -10,5 +10,4 @@ matplotlib = 1.4
 ta-lib = 0.4.9
 
 # Credits
-Diego Fernandez
-Udemy
+Diego Fernandez, Udemy
